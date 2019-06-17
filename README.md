@@ -7,7 +7,7 @@ React bug tracker which uses Airtable api as backend provided in the assignment.
 - I had three days and its tough to create all the points provided and exact clone as Airtable.
 - Some of the features skipped because of the lack of time.
 - No code has been copied and react-kanban provided is assignment is also not used.
-- I have deployed the app in - 
+- I have deployed the app in - https://bugify1.herokuapp.com/
 
 ## Libraries used
 
@@ -37,7 +37,7 @@ React bug tracker which uses Airtable api as backend provided in the assignment.
 
 ## Deploy
 - I took half an hour and deployed application to the server.
-- ```
+- ```https://bugify1.herokuapp.com/
 
 #### Declarations
 
