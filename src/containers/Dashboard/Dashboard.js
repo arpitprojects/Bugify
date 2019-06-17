@@ -95,7 +95,7 @@ class Dashboard extends Component{
         this.setState({
             bugsTracker : newState
         })
-        // this.fetchData();
+        this.fetchData();
     }
     deleteHandler = (id) => {
         base('Bugs & Issues').destroy( id , function(err, deletedRecord) {
